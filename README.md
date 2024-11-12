@@ -1,0 +1,1 @@
+# openshift-model-server-chart
